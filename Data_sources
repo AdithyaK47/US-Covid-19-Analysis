@@ -1,0 +1,18 @@
+This project deals with Covid 19 Analysis of United States, which has most confirmed/death cases reported.
+Data used for the project are gathered from the following data providers:
+  Johns Hopkins University & Medicine
+  New York Times
+  CDC (Centers for Disease Control and Prevention)
+  Harvard Global Health Institute
+  Data SF
+  data.gov
+
+Datas used are only upto date till uploaded date.
+Please note this is not a live tracker. Only used datas till uploaded date(24th July 2020)
+
+How to find datas used?
+
+Ongoing repository of data on GitHub by New York Times and Johns Hopkins University & Medicine
+DataSF, City and County of San Francisco’s official open data program(Website)
+data.gov, Open database maintained by Government of United States(Website)
+Data collected from Harvard Global Health Institute is uploaded.
