@@ -1,7 +1,8 @@
 
 This project deals with Covid 19 Analysis of United States, which has most confirmed/death cases reported.
 Data used for the project are gathered from the following data providers:
-  Johns Hopkins University & Medicine
+  Johns Hopkins University & Medicine(Github Repo)
+  (https://github.com/CSSEGISandData/COVID-19)
   New York Times
   CDC (Centers for Disease Control and Prevention)
   Harvard Global Health Institute
